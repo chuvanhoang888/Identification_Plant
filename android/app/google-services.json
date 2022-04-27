@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "424117861940",
+    "project_id": "rice-disease-detection-f7469",
+    "storage_bucket": "rice-disease-detection-f7469.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424117861940:android:ea31110b64218452ce1461",
+        "android_client_info": {
+          "package_name": "com.example.rice_disease_detection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "424117861940-qqjofobaot2st19bu9fsg7r93ji6s8re.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rice_disease_detection",
+            "certificate_hash": "c0ddac2df4e64df7362e42ea8c570ef7671a4352"
+          }
+        },
+        {
+          "client_id": "424117861940-jvbtqe9iro3n87nn6j83jcdlb6upbkf1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGUrkJcLaG_0wLZX-eA--4YmajBi7zSlU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "424117861940-jvbtqe9iro3n87nn6j83jcdlb6upbkf1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
